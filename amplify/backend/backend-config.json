@@ -26,7 +26,7 @@
     }
   },
   "storage": {
-    "babyImages": {
+    "babyimages": {
       "service": "S3",
       "providerPlugin": "awscloudformation"
     }
