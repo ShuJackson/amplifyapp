@@ -1,0 +1,6 @@
+type Comment @model {
+  id: ID!
+  name: String!
+  description: String
+  image: String
+}
